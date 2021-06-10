@@ -48,8 +48,3 @@ with open('save.txt', 'w') as f:
     for app in apps:
         f.write(app + ",")
 
-
-if __name__ =='__main__' :
-     run()
-
-
